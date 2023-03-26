@@ -1,0 +1,19 @@
+.horizontal_slider{
+display: block;
+width: 100%;
+overflow: scroll;
+margin-top: 150px;
+
+}
+
+.slider_container{
+display: block;
+white-space: nowrap;
+}
+.item{
+  display: inline-block;
+  margin-right: 10px;
+}
+.item.content{
+  width: 150px;
+}
